@@ -116,7 +116,7 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 
 ## Parcours
 
-- **Master 2 — Mathématiques Appliquées aux Sciences Sociales (MASS)**, Université de Yaoundé II
+- **Master 2 : Mathématiques Appliquées aux Sciences Sociales (MASS)**, Université de Yaoundé II
 - **Formation Data Analytics** (STATLeaders) : Excel, SQL, Power BI, KoboToolbox, Python
 
 ### Certifications
