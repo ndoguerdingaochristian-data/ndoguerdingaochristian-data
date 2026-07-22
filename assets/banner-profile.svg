@@ -1,0 +1,48 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ndoguerdingao Christian — De la donnée de terrain à la décision">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F1E2E"/><stop offset="1" stop-color="#12283C"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="320" x2="240" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C75B12"/><stop offset="1" stop-color="#E8A33D"/>
+    </linearGradient>
+    <clipPath id="fr"><rect width="1280" height="320" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#fr)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <g stroke="#2A4258" opacity="0.28">
+      <line x1="0" y1="80" x2="1280" y2="80"/><line x1="0" y1="160" x2="1280" y2="160"/><line x1="0" y1="240" x2="1280" y2="240"/>
+    </g>
+
+    <!-- Tuile monogramme -->
+    <g transform="translate(88,104)">
+      <rect width="112" height="112" rx="26" fill="#0B1826" stroke="#22405A" stroke-width="1.5"/>
+      <path d="M112 0 L112 36 C97 32 88 22 85 0 Z" fill="url(#acc)"/>
+      <text x="56" y="72" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-2" fill="#F4EDE4">NC</text>
+      <path d="M24 94 L44 86 L64 89 L88 78" fill="none" stroke="#0E7C7B" stroke-width="3.5" stroke-linecap="round"/>
+    </g>
+
+    <!-- Texte -->
+    <text x="236" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#F4EDE4">Ndoguerdingao Christian</text>
+    <text x="238" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#E8A33D">De la donnée de terrain à la décision</text>
+    <text x="238" y="224" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9FB0C0">Data Analyst &#183; Économètre &#183; Spécialiste des données d'enquête</text>
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">
+      <circle cx="244" cy="262" r="4.5" fill="#C75B12"/><text x="255" y="266" fill="#C7D2DD">Business Intelligence</text>
+      <circle cx="416" cy="262" r="4.5" fill="#0E7C7B"/><text x="427" y="266" fill="#C7D2DD">Données d'enquête</text>
+      <circle cx="572" cy="262" r="4.5" fill="#E8A33D"/><text x="583" y="266" fill="#C7D2DD">Économétrie</text>
+    </g>
+
+    <!-- Histogramme + tendance -->
+    <g>
+      <rect x="912"  y="210" width="30" height="70"  rx="4" fill="#0E7C7B"/>
+      <rect x="952"  y="180" width="30" height="100" rx="4" fill="#0E7C7B"/>
+      <rect x="992"  y="140" width="30" height="140" rx="4" fill="#E8A33D"/>
+      <rect x="1032" y="168" width="30" height="112" rx="4" fill="#C75B12"/>
+      <rect x="1072" y="122" width="30" height="158" rx="4" fill="#C75B12"/>
+      <rect x="1112" y="196" width="30" height="84"  rx="4" fill="#0E7C7B"/>
+      <rect x="1152" y="150" width="30" height="130" rx="4" fill="#E8A33D"/>
+    </g>
+    <path d="M912 250 L967 214 L1022 190 L1077 150 L1132 176 L1182 140" fill="none" stroke="#F4EDE4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <g fill="#F4EDE4"><circle cx="912" cy="250" r="4"/><circle cx="1077" cy="150" r="4"/><circle cx="1182" cy="140" r="4"/></g>
+  </g>
+</svg>

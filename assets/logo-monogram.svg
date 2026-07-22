@@ -1,0 +1,8 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Monogramme CN — Ndoguerdingao Christian"><defs><linearGradient id="tile" x1="0" y1="0" x2="240" y2="240" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0F1E2E"/><stop offset="1" stop-color="#173247"/></linearGradient><linearGradient id="accent" x1="0" y1="240" x2="240" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#C75B12"/><stop offset="1" stop-color="#E8A33D"/></linearGradient></defs>
+  <rect width="240" height="240" rx="52" fill="url(#tile)"/>
+  <path d="M240 0 L240 76 C208 68 190 48 184 0 Z" fill="url(#accent)" opacity="0.92"/>
+  <text x="120" y="142" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="112" font-weight="800" letter-spacing="-3" fill="#F4EDE4">NC</text>
+  <path d="M60 196 L96 182 L132 188 L180 168" fill="none" stroke="#0E7C7B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="60" cy="196" r="5.5" fill="#0E7C7B"/>
+  <circle cx="180" cy="168" r="5.5" fill="#E8A33D"/>
+</svg>
