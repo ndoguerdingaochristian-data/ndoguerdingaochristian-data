@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#etudes-de-cas"><img src="https://img.shields.io/badge/Voir%20mes%20%C3%A9tudes%20de%20cas-C75B12?style=for-the-badge" alt="Études de cas" /></a>
   <a href="{{CV_URL}}"><img src="https://img.shields.io/badge/CV-0F1E2E?style=for-the-badge" alt="CV" /></a>
-  <a href="www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ndoguerdingaochristian@gmail.com"><img src="https://img.shields.io/badge/Me%20contacter-0E7C7B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
 
@@ -82,10 +82,10 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 
 ### Dashboard Power BI : Centre de Formation
 
-<a href="https://github.com/{{USERNAME}}/powerbi-centre-formation"><img src="https://img.shields.io/badge/Lire%20l'%C3%A9tude%20de%20cas-C75B12?style=flat-square&logo=github&logoColor=white" alt="Lire l'étude de cas" /></a>
+<a href="https://github.com/ndoguerdingaochristian-data/powerbi-centre-formation"><img src="https://img.shields.io/badge/Lire%20l'%C3%A9tude%20de%20cas-C75B12?style=flat-square&logo=github&logoColor=white" alt="Lire l'étude de cas" /></a>
 
 <div align="center">
-  <img src="https://github.com/{{USERNAME}}/powerbi-centre-formation/raw/main/assets/screenshots/vue-generale.png" alt="Aperçu du dashboard" width="82%" />
+  <img src="https://github.com/ndoguerdingaochristian-data/powerbi-centre-formation/raw/main/assets/screenshots/vue-generale.png" alt="Aperçu du dashboard" width="82%" />
 </div>
 
 - **Problème** : une direction pilotait à l'aveugle, sur des fichiers Excel dispersés.
@@ -130,7 +130,7 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 ## Contact
 
 <p align="center">
-  <a href="www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ndoguerdingaochristian@gmail.com"><img src="https://img.shields.io/badge/E--mail-C75B12?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
   <a href="{{CV_URL}}"><img src="https://img.shields.io/badge/CV-0F1E2E?style=for-the-badge" alt="CV" /></a>
 </p>
