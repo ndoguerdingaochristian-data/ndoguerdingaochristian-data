@@ -78,7 +78,7 @@ Questionnaire        Collecte           Nettoyage &         Analyse            T
 ![KoboToolbox](https://img.shields.io/badge/KoboToolbox-0E7C7B?style=for-the-badge&logo=kobotoolbox&logoColor=white)
 
 <details>
-<summary><img src="https://img.shields.io/badge/+_Voir_tous_les_outils-0E7C7B?style=for-the-badge" alt="Voir tous les outils" /></summary>
+<summary>Voir l'ensemble des outils</summary>
 
 <br/>
 
