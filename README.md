@@ -128,7 +128,7 @@ Ce qu'un client ou un recruteur obtient, au-delà des chiffres :
 ## Parcours
 
 - **Master 2 : Mathématiques Appliquées aux Sciences Sociales (MASS)**, Université de Yaoundé II
-- **Formation Data Analytics** (STATLeaders) : Excel, SQL, Power BI, KoboToolbox, Python
+- **Certificat de Qualification Professionnelle** (CQP) : Excel, SQL, Power BI, KoboToolbox, Python
 
 ### Certifications
 
