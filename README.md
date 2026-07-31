@@ -42,7 +42,7 @@
 Économètre et analyste de données à Yaoundé, spécialisé dans les **données d'enquête** pour les secteurs **humanitaire et du développement**. Ma singularité tient en une phrase : je couvre **toute la chaîne**, du questionnaire de terrain jusqu'au tableau de bord qui éclaire la décision.
 
 > [!NOTE]
-> Trois choses qu'un recruteur retient de ce profil : je maîtrise la chaîne complète de la donnée d'enquête, je raisonne en économètre (le « pourquoi », pas seulement le « combien »), et je documente chaque projet comme une étude de cas de cabinet.
+> Je maîtrise la chaîne complète de la donnée d'enquête, je raisonne en économètre (le « pourquoi », pas seulement le « combien »), et je documente chaque projet comme une étude de cas de cabinet.
 
 ## Ce que je fais
 
@@ -82,7 +82,7 @@ Questionnaire        Collecte           Nettoyage &         Analyse            T
 
 <br/>
 
-Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans chaque étude de cas.
+Excel, XlsForm, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans chaque étude de cas.
 
 </details>
 
@@ -129,7 +129,6 @@ Ce qu'un client ou un recruteur obtient, au-delà des chiffres :
 
 - **Master 2 : Mathématiques Appliquées aux Sciences Sociales (MASS)**, Université de Yaoundé II
 - **Formation Data Analytics** (STATLeaders) : Excel, SQL, Power BI, KoboToolbox, Python
-- Auteur du guide *La Parole Maîtrisée*
 
 ### Certifications
 
