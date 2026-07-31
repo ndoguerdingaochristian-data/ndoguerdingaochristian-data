@@ -68,7 +68,7 @@ Questionnaire        Collecte           Nettoyage &         Analyse            T
 | **Données d'enquête** | Plan de sondage, pondération, indicateurs MEL, contrôle qualité |
 | **Data Visualization** | Restitution claire, honnête, orientée décision |
 
-**Stack principal**
+**Outils principaux**
 
 ![Python](https://img.shields.io/badge/Python-0F1E2E?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-0F1E2E?style=for-the-badge&logo=r&logoColor=white)
@@ -78,7 +78,7 @@ Questionnaire        Collecte           Nettoyage &         Analyse            T
 ![KoboToolbox](https://img.shields.io/badge/KoboToolbox-0E7C7B?style=for-the-badge&logo=kobotoolbox&logoColor=white)
 
 <details>
-<summary>Voir l'ensemble des outils</summary>
+<summary><img src="https://img.shields.io/badge/+_Voir_tous_les_outils-0E7C7B?style=for-the-badge" alt="Voir tous les outils" /></summary>
 
 <br/>
 
@@ -88,7 +88,7 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 
 ## Études de cas
 
-> Chaque carte mène à un dépôt structuré comme une étude de cas de conseil. Cliquez pour dérouler l'histoire complète.
+> Chaque projet mène à un dépôt documenté comme une étude de cas de conseil.
 
 ### Tableau de bord Power BI : Centre de Formation
 
@@ -101,14 +101,11 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 - **Problème** : piloter l'activité d'un centre de formation dispersée dans plusieurs fichiers Excel.
 - **Ce que j'ai fait** : modèle de données, mesures DAX, tableau de bord multi-pages.
 - **Résultat** : 6 pages décisionnelles, 10 sources, 48 mesures DAX ; suivi de 650 apprenants et 8 programmes.
-- **Stack** : `Power BI` · `Excel` · `DAX`
+- **Outils** : `Power BI` · `Excel` · `DAX`
 
-<details>
-<summary><b>Toutes les études de cas (liste complète)</b></summary>
+**Toutes mes études de cas**
 
-<br/>
-
-| Étude de cas | Ce qu'elle démontre | Stack |
+| Étude de cas | Ce qu'elle démontre | Outils |
 | :--- | :--- | :--- |
 | [Pilotage d'un centre de formation](https://github.com/ndoguerdingaochristian-data/pilotage-centre-formation) | BI d'entreprise, 6 pages, 48 mesures DAX | `Power BI` |
 | [Insécurité alimentaire au Sahel](https://github.com/ndoguerdingaochristian-data/tableau-de-bord-insecurite-alimentaire-sahel) | BI humanitaire sur données FEWS NET et OCHA | `Power BI` |
@@ -117,8 +114,6 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 | [Déplacements forcés au Sahel (UNHCR)](https://github.com/ndoguerdingaochristian-data/deplacements-forces-sahel-unhcr) | Suivi de populations déplacées | `Power BI` |
 | [Malnutrition infantile (enquête SMART)](https://github.com/ndoguerdingaochristian-data/malnutrition-infantile-smart-survey) | Indicateurs nutritionnels pondérés | `R` · `Stata` |
 | [Système de suivi-évaluation éducation](https://github.com/ndoguerdingaochristian-data/systeme-me-education-sql-powerbi) | Chaîne SQL vers Power BI | `SQL` · `Power BI` |
-
-</details>
 
 ## Comment je travaille
 
