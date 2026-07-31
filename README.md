@@ -1,5 +1,15 @@
+<!--
+====================================================================
+ README DE PROFIL — V2  ///  Ndoguerdingao Christian
+ Dépôt : github.com/ndoguerdingaochristian-data/ndoguerdingaochristian-data
+ À personnaliser : ndoguerdingaochristian-data, ndoguerdingaochristian@gmail.com, https://www.linkedin.com/in/ndoguerdingao-christian
+ et les [ex. : ...] (vraies métriques). Déposer brand/ dans /assets.
+ Règle : titres sans emoji (ancres propres). Hero sans service tiers.
+====================================================================
+-->
+
 <div align="center">
-  <img src="./assets/banner-profile.svg" alt="Ndoguerdingao Christian — De la donnée de terrain à la décision" width="100%" />
+  <img src="./assets/banner-profile.svg" alt="Ndoguerdingao Christian, De la donnée de terrain à la décision" width="100%" />
 </div>
 
 <p align="center">
@@ -9,19 +19,18 @@
 <!-- Appels à l'action -->
 <p align="center">
   <a href="#etudes-de-cas"><img src="https://img.shields.io/badge/Voir%20mes%20%C3%A9tudes%20de%20cas-C75B12?style=for-the-badge" alt="Études de cas" /></a>
-  <a href="{{CV_URL}}"><img src="https://img.shields.io/badge/CV-0F1E2E?style=for-the-badge" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ndoguerdingaochristian@gmail.com"><img src="https://img.shields.io/badge/Me%20contacter-0E7C7B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
 
 <!-- Navigation (texte pur, sans emoji, ancres propres) -->
 <p align="center">
-  <a href="#en-bref">En bref</a> -
-  <a href="#ce-que-je-fais">Ce que je fais</a> -
-  <a href="#ce-que-je-maitrise">Compétences</a> -
-  <a href="#etudes-de-cas">Études de cas</a> -
-  <a href="#comment-je-travaille">Méthode</a> -
-  <a href="#parcours">Parcours</a> -
+  <a href="#en-bref">En bref</a> ·
+  <a href="#ce-que-je-fais">Ce que je fais</a> ·
+  <a href="#ce-que-je-maitrise">Compétences</a> ·
+  <a href="#etudes-de-cas">Études de cas</a> ·
+  <a href="#comment-je-travaille">Méthode</a> ·
+  <a href="#parcours">Parcours</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -32,7 +41,7 @@
 Économètre et analyste de données à Yaoundé, spécialisé dans les **données d'enquête** pour les secteurs **humanitaire et du développement**. Ma singularité tient en une phrase : je couvre **toute la chaîne**, du questionnaire de terrain jusqu'au tableau de bord qui éclaire la décision.
 
 > [!NOTE]
-> Je maîtrise la chaîne complète de la donnée d'enquête, je raisonne en économètre (le « pourquoi », pas seulement le « combien »), et je documente chaque projet comme une étude de cas de cabinet.
+> Trois choses qu'un recruteur retient de ce profil : je maîtrise la chaîne complète de la donnée d'enquête, je raisonne en économètre (le « pourquoi », pas seulement le « combien »), et je documente chaque projet comme une étude de cas de cabinet.
 
 ## Ce que je fais
 
@@ -80,33 +89,38 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 
 > Chaque carte mène à un dépôt structuré comme une étude de cas de conseil. Cliquez pour dérouler l'histoire complète.
 
-### Dashboard Power BI : Centre de Formation
+### Tableau de bord Power BI : Centre de Formation
 
-<a href="https://github.com/ndoguerdingaochristian-data/powerbi-centre-formation"><img src="https://img.shields.io/badge/Lire%20l'%C3%A9tude%20de%20cas-C75B12?style=flat-square&logo=github&logoColor=white" alt="Lire l'étude de cas" /></a>
+<a href="https://github.com/ndoguerdingaochristian-data/pilotage-centre-formation"><img src="https://img.shields.io/badge/Lire%20l'%C3%A9tude%20de%20cas-C75B12?style=flat-square&logo=github&logoColor=white" alt="Lire l'étude de cas" /></a>
 
 <div align="center">
-  <img src="https://github.com/ndoguerdingaochristian-data/powerbi-centre-formation/raw/main/assets/screenshots/vue-generale.png" alt="Aperçu du dashboard" width="82%" />
+  <img src="https://github.com/ndoguerdingaochristian-data/pilotage-centre-formation/raw/main/assets/screenshots/synthese.png" alt="Aperçu du dashboard" width="82%" />
 </div>
 
-- **Problème** : une direction pilotait à l'aveugle, sur des fichiers Excel dispersés.
-- **Rôle** : conception du modèle de données, des mesures et du tableau de bord.
-- **Résultat** : [ex. : reporting mensuel réduit de X h à Y min ; N KPI unifiés].
+- **Problème** : piloter l'activité d'un centre de formation dispersée dans plusieurs fichiers Excel.
+- **Ce que j'ai fait** : modèle de données, mesures DAX, tableau de bord multi-pages.
+- **Résultat** : 6 pages décisionnelles, 10 sources, 47 mesures DAX ; suivi de 650 apprenants et 8 programmes.
 - **Stack** : `Power BI` · `Excel` · `DAX`
 
 <details>
-<summary><b>Autres études de cas (en préparation)</b></summary>
+<summary><b>Autres études de cas</b></summary>
 
 <br/>
 
 | Étude de cas | Ce qu'elle démontre | Stack |
 | :--- | :--- | :--- |
-| Pipeline d'enquête KoboToolbox vers Power BI | La chaîne complète terrain to décision | `KoboToolbox` · `Python` · `Power BI` |
-| Analyse économétrique — [thématique] | Le raisonnement causal | `Stata` · `R` · `LaTeX` |
-| Nettoyage de données d'enquête | La rigueur de préparation | `Python` · `R` |
+| [Insécurité alimentaire au Sahel](https://github.com/ndoguerdingaochristian-data/tableau-de-bord-insecurite-alimentaire-sahel) | BI humanitaire sur données FEWS NET et OCHA | `Power BI` |
+| [Pauvreté multidimensionnelle au Tchad (MICS6)](https://github.com/ndoguerdingaochristian-data/pauvrete-multidimensionnelle-tchad-mics6) | Indices composites sur données d'enquête | `Stata` · `R` |
+| [Analyse WASH au Tchad (MICS6)](https://github.com/ndoguerdingaochristian-data/analyse-wash-tchad-mics6) | Accès à l'eau et à l'assainissement | `R` · `Python` |
+| [Déplacements forcés au Sahel (UNHCR)](https://github.com/ndoguerdingaochristian-data/deplacements-forces-sahel-unhcr) | Suivi de populations déplacées | `Power BI` |
+| [Malnutrition infantile (enquête SMART)](https://github.com/ndoguerdingaochristian-data/malnutrition-infantile-smart-survey) | Indicateurs nutritionnels pondérés | `R` · `Stata` |
+| [Système de suivi-évaluation éducation](https://github.com/ndoguerdingaochristian-data/systeme-me-education-sql-powerbi) | Chaîne SQL vers Power BI | `SQL` · `Power BI` |
 
 </details>
 
 ## Comment je travaille
+
+Ce qu'un client ou un recruteur obtient, au-delà des chiffres :
 
 - **Reproductibilité.** Code versionné, données documentées, résultats retraçables jusqu'à la source. Si je l'affirme, vous pouvez le vérifier.
 - **Rigueur avant esthétique.** Les conditions d'un test sont vérifiées avant d'être invoquées. Corrélation n'est pas causalité, et je le dis quand c'est le cas.
@@ -118,21 +132,21 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 
 - **Master 2 : Mathématiques Appliquées aux Sciences Sociales (MASS)**, Université de Yaoundé II
 - **Formation Data Analytics** (STATLeaders) : Excel, SQL, Power BI, KoboToolbox, Python
+- Auteur du guide *La Parole Maîtrisée*
 
 ### Certifications
 
 | Certification | Émetteur | Statut | |
 | :--- | :--- | :--- | :--- |
 | Introduction à la statistique avec R (Université Paris-Saclay) | France Université Numérique | ![Obtenu](https://img.shields.io/badge/Obtenu-2E9E5B?style=flat-square) oct. 2025 | [Vérifier](https://openbadgefactory.com/validator?id=4d674e97c145c145a9b747d4edd96e5609090c6d&lang=fr) |
-| Google Data Analytics Professional Certificate | Google (Coursera) | ![En cours](https://img.shields.io/badge/En_cours-E8A33D?style=flat-square) | — |
-| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft | ![Prévu](https://img.shields.io/badge/Pr%C3%A9vu-4A5568?style=flat-square) | — |
+| Google Data Analytics Professional Certificate | Google (Coursera) | ![En cours](https://img.shields.io/badge/En_cours-E8A33D?style=flat-square) | - |
+| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft | ![Prévu](https://img.shields.io/badge/Pr%C3%A9vu-4A5568?style=flat-square) | - |
 
 ## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ndoguerdingaochristian@gmail.com"><img src="https://img.shields.io/badge/E--mail-C75B12?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
-  <a href="{{CV_URL}}"><img src="https://img.shields.io/badge/CV-0F1E2E?style=for-the-badge" alt="CV" /></a>
 </p>
 
 <details>
