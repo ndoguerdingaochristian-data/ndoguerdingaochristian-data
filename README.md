@@ -2,7 +2,7 @@
 ====================================================================
  README DE PROFIL — V2  ///  Ndoguerdingao Christian
  Dépôt : github.com/ndoguerdingaochristian-data/ndoguerdingaochristian-data
- À personnaliser : ndoguerdingaochristian-data, ndoguerdingaochristian@gmail.com, https://www.linkedin.com/in/ndoguerdingao-christian
+ À personnaliser : {{CV_URL}} -> lien de votre CV (les 2 boutons CV). Tout le reste est rempli.
  et les [ex. : ...] (vraies métriques). Déposer brand/ dans /assets.
  Règle : titres sans emoji (ancres propres). Hero sans service tiers.
 ====================================================================
@@ -100,16 +100,17 @@ Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans 
 
 - **Problème** : piloter l'activité d'un centre de formation dispersée dans plusieurs fichiers Excel.
 - **Ce que j'ai fait** : modèle de données, mesures DAX, tableau de bord multi-pages.
-- **Résultat** : 6 pages décisionnelles, 10 sources, 47 mesures DAX ; suivi de 650 apprenants et 8 programmes.
+- **Résultat** : 6 pages décisionnelles, 10 sources, 48 mesures DAX ; suivi de 650 apprenants et 8 programmes.
 - **Stack** : `Power BI` · `Excel` · `DAX`
 
 <details>
-<summary><b>Autres études de cas</b></summary>
+<summary><b>Toutes les études de cas (liste complète)</b></summary>
 
 <br/>
 
 | Étude de cas | Ce qu'elle démontre | Stack |
 | :--- | :--- | :--- |
+| [Pilotage d'un centre de formation](https://github.com/ndoguerdingaochristian-data/pilotage-centre-formation) | BI d'entreprise, 6 pages, 48 mesures DAX | `Power BI` |
 | [Insécurité alimentaire au Sahel](https://github.com/ndoguerdingaochristian-data/tableau-de-bord-insecurite-alimentaire-sahel) | BI humanitaire sur données FEWS NET et OCHA | `Power BI` |
 | [Pauvreté multidimensionnelle au Tchad (MICS6)](https://github.com/ndoguerdingaochristian-data/pauvrete-multidimensionnelle-tchad-mics6) | Indices composites sur données d'enquête | `Stata` · `R` |
 | [Analyse WASH au Tchad (MICS6)](https://github.com/ndoguerdingaochristian-data/analyse-wash-tchad-mics6) | Accès à l'eau et à l'assainissement | `R` · `Python` |
@@ -148,6 +149,7 @@ Ce qu'un client ou un recruteur obtient, au-delà des chiffres :
 <p align="center">
   <a href="https://www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ndoguerdingaochristian@gmail.com"><img src="https://img.shields.io/badge/E--mail-C75B12?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
+  <a href="{{CV_URL}}"><img src="https://img.shields.io/badge/CV-0F1E2E?style=for-the-badge" alt="CV" /></a>
 </p>
 
 <details>
