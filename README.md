@@ -19,6 +19,7 @@
 <!-- Appels à l'action -->
 <p align="center">
   <a href="#etudes-de-cas"><img src="https://img.shields.io/badge/Voir%20mes%20%C3%A9tudes%20de%20cas-C75B12?style=for-the-badge" alt="Études de cas" /></a>
+  <a href="{{CV_URL}}"><img src="https://img.shields.io/badge/CV-0F1E2E?style=for-the-badge" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/ndoguerdingao-christian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ndoguerdingaochristian@gmail.com"><img src="https://img.shields.io/badge/Me%20contacter-0E7C7B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
