@@ -1,10 +1,6 @@
 <!--
 ====================================================================
- README DE PROFIL - V2  ///  Ndoguerdingao Christian
- Dépôt : github.com/ndoguerdingaochristian-data/ndoguerdingaochristian-data
- À personnaliser : {{CV_URL}} -> lien de votre CV (les 2 boutons CV). Tout le reste est rempli.
- et les [ex. : ...] (vraies métriques). Déposer brand/ dans /assets.
- Règle : titres sans emoji (ancres propres). Hero sans service tiers.
+ README DE PROFIL
 ====================================================================
 -->
 
