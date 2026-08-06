@@ -1,6 +1,6 @@
 <!--
 ====================================================================
- README DE PROFIL — V2  ///  Ndoguerdingao Christian
+ README DE PROFIL - V2  ///  Ndoguerdingao Christian
  Dépôt : github.com/ndoguerdingaochristian-data/ndoguerdingaochristian-data
  À personnaliser : {{CV_URL}} -> lien de votre CV (les 2 boutons CV). Tout le reste est rempli.
  et les [ex. : ...] (vraies métriques). Déposer brand/ dans /assets.
@@ -11,6 +11,10 @@
 <div align="center">
   <img src="./assets/banner-profile.svg" alt="Ndoguerdingao Christian, De la donnée de terrain à la décision" width="100%" />
 </div>
+
+<p align="center">
+  <b>Data Analyst & économètre</b> | Données d'enquête complexes, du questionnaire au tableau de bord | R, Power BI, SQL, Stata, Python
+</p>
 
 <p align="center">
   <b>Je transforme des données d'enquête collectées sur le terrain en décisions que des organisations peuvent défendre.</b>
@@ -42,11 +46,11 @@
 Économètre et analyste de données à Yaoundé, spécialisé dans les **données d'enquête** pour les secteurs **humanitaire et du développement**. Ma singularité tient en une phrase : je couvre **toute la chaîne**, du questionnaire de terrain jusqu'au tableau de bord qui éclaire la décision.
 
 > [!NOTE]
-> Je maîtrise la chaîne complète de la donnée d'enquête, je raisonne en économètre (le « pourquoi », pas seulement le « combien »), et je documente chaque projet comme une étude de cas de cabinet.
+> Trois choses qu'un recruteur retient de ce profil : je maîtrise la chaîne complète de la donnée d'enquête, je raisonne en économètre (le « pourquoi », pas seulement le « combien »), et je documente chaque projet comme une étude de cas de cabinet.
 
 ## Ce que je fais
 
-**D'où je viens.** Une formation d'économètre (Master 2 MASS, Université de Yaoundé II) qui m'a appris une chose avant tout : un chiffre ne vaut que si l'on peut le défendre, de la source jusqu'à la conclusion.
+**D'où je viens.** Une formation d'économètre (Master en Économie et Gestion appliquées, option MASS, Université de Yaoundé II) qui m'a appris une chose avant tout : un chiffre ne vaut que si l'on peut le défendre, de la source jusqu'à la conclusion.
 
 **Ce que je fais.** La plupart des analystes interviennent sur un maillon. Moi, je prends la donnée là où elle naît, sur le terrain, et je l'accompagne jusqu'à la décision :
 
@@ -64,17 +68,17 @@ Questionnaire        Collecte           Nettoyage &         Analyse            T
 | :--- | :--- |
 | **Business Intelligence** | Modèles de données, mesures DAX, tableaux de bord Power BI |
 | **Analyse & statistiques** | Nettoyage, tests, régressions, statistique inférentielle |
-| **Économétrie** | Inférence causale, décompositions, correction de biais de sélection |
+| **Économétrie** | Régression logistique pondérée, modèles multiniveaux, tests design-based |
 | **Données d'enquête** | Plan de sondage, pondération, indicateurs MEL, contrôle qualité |
 | **Data Visualization** | Restitution claire, honnête, orientée décision |
 
 **Outils principaux**
 
-![Python](https://img.shields.io/badge/Python-0F1E2E?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-0F1E2E?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-C75B12?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0F1E2E?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-0F1E2E?style=for-the-badge&logo=stata&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-C75B12?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F1E2E?style=for-the-badge&logo=python&logoColor=white)
 ![KoboToolbox](https://img.shields.io/badge/KoboToolbox-0E7C7B?style=for-the-badge&logo=kobotoolbox&logoColor=white)
 
 <details>
@@ -82,7 +86,7 @@ Questionnaire        Collecte           Nettoyage &         Analyse            T
 
 <br/>
 
-Excel, XlsForm, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans chaque étude de cas.
+Excel, ODK, Jupyter, LaTeX, Git, VS Code. Le détail par catégorie figure dans chaque étude de cas.
 
 </details>
 
@@ -127,8 +131,8 @@ Ce qu'un client ou un recruteur obtient, au-delà des chiffres :
 
 ## Parcours
 
-- **Master 2 : Mathématiques Appliquées aux Sciences Sociales (MASS)**, Université de Yaoundé II
-- **Certificat de Qualification Professionnelle** (CQP) : Excel, SQL, Power BI, KoboToolbox, Python
+- **Master en Économie et Gestion appliquées, option Mathématiques Appliquées aux Sciences Sociales (MASS)**, Université de Yaoundé II (2024)
+- **Formation Data Analytics** (STATLeaders) : Excel, SQL, Power BI, KoboToolbox, Python
 
 ### Certifications
 
